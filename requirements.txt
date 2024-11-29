@@ -1,0 +1,6 @@
+faster-whisper
+pygame
+playsound
+SpeechRecognition
+edge_tts
+google-generativeai
