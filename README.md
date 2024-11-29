@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ## How to Use
 
 1. **Run Splash**  
-   Execute the script, and Splash will actively listen for the wake word. The default wake word is `splash`.
+   Execute the script, and Splash will actively listen for the wake word. The default wake word is `splash`. If it doesn't seem to work, head to [Troubleshooting]()
 
 ---
 
