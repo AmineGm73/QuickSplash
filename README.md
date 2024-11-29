@@ -5,6 +5,13 @@
 ---
 
 ## Additional Requirements
+### Google Gemini API Key
+
+- Open in your browser [Google AI Studio](https://aistudio.google.com/app/apikey)
+- Create a key and copy it.
+- Paste it in 
+
+---
 
 ### Python Libraries
 
@@ -31,9 +38,7 @@ pip install -r requirements.txt
 - **Wake Word Activation**: Listens for a customizable wake word to activate.  
 - **Speech-to-Text**: Converts your speech to text using Faster Whisper.  
 - **AI-Generated Responses**: Interacts with you using the Gemini AI-powered response system.  
-- **Text-to-Speech**: Responds audibly using Edge TTS.  
-- **Command Recognition**: Splash can recognize predefined commands (e.g., `remove`).  
-- **Conversation Logging**: Saves conversations to a JSON file for future use.
+- **Text-to-Speech**: Responds audibly using Edge TTS.
 
 ---
 
