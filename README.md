@@ -9,7 +9,7 @@
 
 - Open in your browser [Google AI Studio](https://aistudio.google.com/app/apikey)
 - Create a key and copy it.
-- Paste it in 
+- Paste it in this [line](https://github.com/AmineGm73/QuickSplash/blob/main/gemini.py#L2).
 
 ---
 
