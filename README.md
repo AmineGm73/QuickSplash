@@ -4,6 +4,9 @@
 
 ---
 
+## Overview
+[![Splash Assistant in Action](https://img.youtube.com/vi/cQrHcaE-UVg/0.jpg)](https://www.youtube.com/watch?v=cQrHcaE-UVg)
+
 ## Additional Requirements
 ### Google Gemini API Key
 
