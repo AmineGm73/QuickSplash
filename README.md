@@ -22,13 +22,7 @@ pip install -r requirements.txt
 ## How to Use
 
 1. **Run Splash**  
-   Execute the script, and Splash will actively listen for the wake word. The default wake word is `hello`.
-
-2. **Give Commands**  
-   After detecting the wake word, Splash will start transcribing speech and respond based on your input.
-
-3. **Manage Conversations**  
-   Conversations are logged in a JSON file (`conversation.json`) for review or reuse.
+   Execute the script, and Splash will actively listen for the wake word. The default wake word is `splash`.
 
 ---
 
@@ -49,8 +43,7 @@ You can customize Splash by modifying the following:
 
 - **Wake Word**: Change the `WAKE_WORD` variable in the script.  
 - **Input Device**: Adjust `DEVICE_INDEX` to use a specific audio input.  
-- **TTS Voice**: Modify the voice in the `speak_text` function (e.g., `en-GB-SoniaNeural`).  
-- **Commands**: Add more commands to the `commands` list.
+- **TTS Voice**: Modify the voice in the `speak_text` function (e.g., `en-GB-SoniaNeural`), you can find them [here](https://gist.githubusercontent.com/BettyJJ/17cbaa1de96235a7f5773b8690a20462/raw/05f2ff16fdf9fcb5920635d64eb83c3fa91a2427/list%2520of%2520voices%2520available%2520in%2520Edge%2520TTS.txt).  
 
 ---
 
