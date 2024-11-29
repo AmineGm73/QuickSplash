@@ -58,4 +58,4 @@ You can customize Splash by modifying the following:
 
 ## License
 
-Splash is open-source and licensed under the MIT License.
+Splash is open-source and licensed under the [MIT License](https://github.com/AmineGm73/QuickSplash/blob/main/LICENSE).
